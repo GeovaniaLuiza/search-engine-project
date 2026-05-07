@@ -74,7 +74,7 @@ search-engine-project/
 
 ## ⚙️ Instalação
 
-### 1. Clonar o repositório
+### 1. Clonar
 
 ```bash
 git clone https://github.com/seu-usuario/search-engine-project.git
