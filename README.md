@@ -71,7 +71,6 @@ search-engine-project/
 └── README.md
 
 ```
----
 
 ## ⚙️ Instalação
 
