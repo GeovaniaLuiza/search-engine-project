@@ -47,7 +47,7 @@ Além da busca, o sistema coleta métricas e traces para análise de performance
 
 ## 📁 Estrutura do projeto
 
-
+---
 search-engine-project/
 │
 ├── app/
@@ -59,14 +59,18 @@ search-engine-project/
 │ │ └── boyer_moore.py
 │ ├── metrics.py
 │ └── telemetry.py
-│
+├── documents/
+│ ├── bible.txt
+│ ├── cathedral_bazaar.txt
+│ ├── dom_casmurro.txt
+│ ├── os_lusiadas.txt
 ├── frontend/
 │ └── index.html
 │
 ├── prometheus.yml
 ├── docker-compose.yml
 └── README.md
-
+---
 
 ---
 
