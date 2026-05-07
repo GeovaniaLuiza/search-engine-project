@@ -47,7 +47,7 @@ Além da busca, o sistema coleta métricas e traces para análise de performance
 
 ## 📁 Estrutura do projeto
 
----
+```bash
 search-engine-project/
 │
 ├── app/
@@ -66,12 +66,11 @@ search-engine-project/
 │ ├── os_lusiadas.txt
 ├── frontend/
 │ └── index.html
-│
 ├── prometheus.yml
 ├── docker-compose.yml
 └── README.md
----
 
+```
 ---
 
 ## ⚙️ Instalação
