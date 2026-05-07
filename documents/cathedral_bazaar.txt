@@ -1,0 +1,151 @@
+
+A Catedral e o Bazar	18/02/2010
+Página inicial
+Novidades
+Mapa do site Projetos
+de software Tutoriais Ensaios Blog pessoal Liberdade! Armas de fogo!
+
+
+
+
+
+
+
+Apresentação do artigo original "Catedral e Bazar" no Linux Kongress, maio de 1997.
+
+Este diretório dá acesso a quase todo o conteúdo do meu livro em desenvolvimento, A Catedral e o Bazar . Aproveite — mas esteja ciente de que vendi os direitos exclusivos de impressão comercial para a O'Reilly.
+
+Os artigos que compõem este livro (assim como o tema) ainda estão em desenvolvimento à medida que recebo mais feedback. Fiz revisões e acréscimos extensivos para a primeira edição do livro A Catedral e o Bazar , e pretendo continuar adicionando e revisando em edições futuras. Mesmo que você já tenha me ouvido fazer a versão de stand-up, talvez queira relê-la.
+
+Estes artigos não estão "finalizados" e talvez nunca estejam. Publicar uma teoria não deve ser o fim da nossa conversa com o universo, mas sim o começo. Agradeço comentários, sugestões e correções, que serão incorporados em versões futuras.
+
+Se você gostou destes artigos, provavelmente também vai gostar do meu FAQ " Como se Tornar um Hacker" (também presente no livro).
+
+Introdução
+Aqui está o XHTML . Você também pode baixar o XML original ou o Postscript .
+
+Uma Breve História do Mundo Hacker
+Meu esboço da história da cultura hacker, mantido desde aproximadamente 1992. Revisei, expandi e converti para HTML para a coletânea de meus ensaios publicada pela O'Reilly. A história definitiva da cultura hacker ainda está por ser escrita, provavelmente não por mim.
+
+Aqui está o XHTML . Você também pode baixar o XML original ou o Postscript .
+
+Traduções
+Chinês (Big 5)
+Chinês (GB2312)
+dinamarquês
+Francês .
+Alemão
+japonês
+polonês
+Russo .
+Espanhol .
+A Catedral e o Bazar
+Aqui está o XHTML . Você também pode baixar o XML do DocBook ou o PostScript .
+
+Você pode baixar gravações em RealAudio da versão em stand-up desta palestra do Kongress (os primeiros 30 segundos estão faltando). As gravações originais em RealAudio não funcionam mais, pois o codec usado está obsoleto. Mas aqui estão os arquivos MP3 de 48 kbps e 96 kbps .
+
+Traduções
+árabe
+Búlgaro .
+Chinês (Big-5) .
+Dinamarquês .
+Holandês .
+Francês .
+.
+Grego .
+Hebraico .
+hebraico
+húngaro
+Italiano .
+Japonês .
+Português
+Coreano .
+letão
+Romeno .
+Espanhol .
+Sueco .
+tâmil
+Tailandês .
+Comentário e Argumentação
+Forrest J. Cavaliere III tentou elaborar algumas das ideias centrais de CatB em Algumas Implicações do Tamanho do Bazar . Randy Boring respondeu .
+
+Clay Shirky aprofundou-se no valor da evolução rápida e no design de sistemas que a incentivam em um excelente artigo, " In Praise of Evolvable Systems" (Em Louvor aos Sistemas Evolutivos ); também em " View Source: Lessons from the Web's Massively Parallel Development" (Ver Código-Fonte: Lições do Desenvolvimento Massivamente Paralelo da Web).
+
+A primeira crítica a este artigo, " When a Bazaar is Not a Bazaar" (Quando um Bazar Não é um Bazar) , foi instigante, mas (na minha opinião) fundamentalmente equivocada. Há comentários melhores disponíveis, e uma crítica muito ponderada em " Beyond the Cathedral, Beyond The Bazaar" (Além da Catedral, Além do Bazar ). O Linux Storm busca situar este artigo dentro de uma análise mais ampla.
+
+Se você acha que ler uma crítica absurdamente ruim pode ser divertido, veja o artigo de Nikolai Bezroukov no First Monday. Há um link para ele na minha resposta .
+
+O livro de Ko Kuwabara, Linux: Um Bazar à Beira do Caos, comenta de forma perspicaz tanto o CatB quanto o HtN, e desenvolve ainda mais a análise a partir de um ponto de vista enraizado na biologia evolutiva e na teoria do caos. O domínio de Kuwabara sobre economia é fraco; ele cai no mito da "dependência da trajetória" e parece sofrer de algumas concepções neomarxistas equivocadas sobre o que é o capitalismo. Felizmente, esses erros não afetam uma discussão realmente excelente e esclarecedora sobre como o Linux se relaciona com as teorias de ação coletiva de Mancur Olson e outros.
+
+O livro de Michael Truscello, " A Arquitetura da Informação: Software de Código Aberto e Anarquismo Pós-Estruturalista Tático", é (pasmem!) uma desconstrução pós-modernista da política do CatB. Surpreendentemente, o jargão e a retórica esquerdista não conseguem sufocar completamente todo o bom senso presente na obra, embora cheguem bem perto.
+
+Existe até uma paródia hilária de CatB, chamada " O Anão do Circo e o Cocô de Dinossauro Fossilizado" . Minha barriga doeu só de ler.
+
+Cultivando a Noosfera
+Neste artigo, examino em detalhes os costumes de propriedade e posse da cultura de código aberto. Sim, ela possui costumes de propriedade — e bastante elaborados, por sinal, que revelam uma cultura subjacente de dádivas na qual os hackers competem amigavelmente por reconhecimento entre seus pares. Essa análise tem grandes implicações para qualquer pessoa interessada em organizar colaborações intelectuais em larga escala.
+
+Aqui está o XHTML . Você também pode baixar o XML do DocBook ou o PostScript .
+
+Traduções
+Chinês .
+Dinamarquês .
+Francês .
+Alemão .
+Italiano .
+Japonês .
+Russo .
+Espanhol .
+Turkish
+Commentary and Argument
+Fare Rideau has developed some thoughtful criticism of this paper (and The Cathedral and the Bazaar) from an anti-IPR point of view. I incorporated some of his analysis into the 1.9 version of the paper.
+
+Russ Allbery has also commented perceptively on the material.
+
+I have written an essay of fame, ego, and oversimplification to counter some misinterpretations of HtN.
+
+Lars Risan has written an excellent paper called The Identity Games of Hacker Culture. He builds on some ideas in HtN to propose an account of the social instincts behind cooperative hacking that relates them to sexual selection and what he calls ``complementary identity games''. This is an impressive piece of thinking and analysis, the first to my knowledge that begins from my approach via evolutionary biology but goes genuinely beyond HtN to propose explanations that were not implicit in my model.
+
+Pat Gratton has tried to fit the hacker psychology as described in HtN into the conceptual scheme of Jane Jacobs's Systems of Survival; see his page on Idealist Ethical Syndrome.
+
+The Magic Cauldron
+This paper analyzes the economics of open-source software. It includes some explosion of common myths about software production economics, a game-theoretical account of why open-source cooperation is stable, and a taxonomy of open-source business models.
+
+Here's the XHTML. You can also download the DocBook XML or Postscript.
+
+Capa do livro CatB
+
+If you like these papers, you will probably also enjoy my How To Become A Hacker FAQ (also in the book).
+
+Translations
+Jesper Laisen is working on a Danish translation of this paper.
+
+Sebastien Blondeel <blondeel@clipper.ens.fr> is working on a French translation of this paper.
+
+There is a Spanish translation.
+
+There is a Japanese translation by YAMAGATA Hiroo, the same person who did the excellent Japanese translation of CatB.
+
+There is a German translation by Reinhard Gantar.
+
+There is an Italian translation.
+
+There is a Russian translation.
+
+Jesper Laisen is working on a Danish translation.
+
+Commentary and Argument
+Fare Rideau has developed some criticized this paper.
+
+Related Papers:
+Yochai Benkler's Coase's Penguin, or Linux and the Nature of the Firm is very perceptive. Benkler's paper informs me that my defense-cost analysis of the development of property rights was anticipated by the economist Harold Demsetz in the 1960s. This doesn't surprise me.
+
+Em "Open Source as a Signalling Device - An Economic Analysis" (Código Aberto como Dispositivo de Sinalização - Uma Análise Econômica), dois economistas modelam matematicamente o processo pelo qual a participação bem-sucedida em um projeto de código aberto se traduz em um salário mais alto para programadores. Eu previ esse efeito no tMC.
+A Vingança dos Hackers
+Neste ensaio, dou continuidade à narrativa histórica, abordando os eventos atuais.
+
+Aqui está o XHTML . Você também pode baixar o XML do DocBook ou o PostScript .
+
+Posfácio
+Este é o posfácio do autor para o livro.
+
+Aqui está o XHTML . Você também pode baixar o XML do DocBook ou o PostScript .
