@@ -17,8 +17,6 @@ Além da busca, o sistema coleta métricas e traces para análise de performance
 - 🔹 Força Bruta (Naive)
 - 🔹 KMP (Knuth-Morris-Pratt)
 - 🔹 Rabin-Karp
-- 🔹 Boyer-Moore (opcional/bônus)
-
 ---
 
 ## 🎯 Funcionalidades
